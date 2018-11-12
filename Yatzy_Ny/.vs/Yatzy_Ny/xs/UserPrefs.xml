@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{BD2A0977-E2A7-406D-A8CB-D90559E4A88E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Yatzy_Ny/Terning.cs">
+    <Files>
+      <File FileName="Yatzy_Ny/Program.cs" Line="1" Column="1" />
+      <File FileName="Yatzy_Ny/MainWindow.cs" Line="1" Column="1" />
+      <File FileName="Yatzy_Ny/Terning.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Yatzy__Ny PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
